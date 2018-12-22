@@ -1,0 +1,21 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "hw6 My First Gulp Progect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vrana Anna",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglifyjs": "^0.6.2",
+    "save-dev": "^2.0.0"
+  }
+}
